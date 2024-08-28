@@ -10,9 +10,9 @@ import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Mansoor Hussain - Passionate full stack and DevOps Engineerr",
+  title: "Portfolio of Mansoor Hussain - Passionate full stack and DevOps Engineer",
   description:
-    "My name is Mansoor Hussain. A passionate Full Stack Software Developer 🚀 with experience in building Web and Mobile applications using JAVASCRIPT, SEMANTIC UI, HEROKU, NODE.JS, BOOTSTRAP, FIREBASE, EXPRESS.JS, MATERIAL UI, NGINX, JQUERY, GIT, REACT, MONGODB, REDUX, GITHUB, REACT NATIVE, GOOGLE CLOUD, Python, Flask, Docker, Kubernetes, Jenkins, Postgres, BigQuery, AWS, and some other cool libraries and frameworks",
+    "My name is Mansoor Hussain. A passionate Full Stack Software Developer 🚀 with experience in building Web and Mobile applications using JavaScript, Semantic UI, Heroku, Node.js, Bootstrap, Firebase, Express.js, Material UI, JQuery, Git, React.js, MongoDB, Redux, Github, React Native, GCP, Python, Flask, Docker, Kubernetes, Jenkins, Postgres, BigQuery, AWS, and some other cool libraries and frameworks",
 };
 
 export default function RootLayout({ children }) {
