@@ -195,4 +195,17 @@ export const projectsData = [
         image: 'https://wgpplaza.com/static/media/WGP-white.c53e1876.png',
 
     },
+    {
+        id: 18,
+        name: 'Tentstat',
+        website_url: 'https://www.tenstat.com/login',
+        website_logo_url: '',
+        description: 'lorem It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English. Many desktop publishing packages and web',
+        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
+        role: 'Full Stack Developer',
+        code: '',
+        demo: '',
+        image: 'https://wgpplaza.com/static/media/WGP-white.c53e1876.png',
+
+    }
 ]
