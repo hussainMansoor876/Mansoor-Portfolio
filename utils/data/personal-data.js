@@ -1,7 +1,7 @@
 export const personalData = {
   name: "Mansoor Hussain",
   profile: '/profile.jpeg',
-  designation: " Passionate full stack and DevOps Engineerr",
+  designation: " Passionate full stack and DevOps Engineer",
   description: "My name is Mansoor Hussain. A passionate Full Stack Software Developer 🚀 with experience in building Web and Mobile applications using JavaScript, Semantic UI, Heroku, Node.js, Bootstrap, Firebase, Express.js, Material UI, JQuery, Git, React.js, MongoDB, Redux, Github, React Native, GCP, Python, Flask, Docker, Kubernetes, Jenkins, Postgres, BigQuery, AWS, and some other cool libraries and frameworks",  
   email: 'hussainmansoor876@gmail.com',
   phone: '+92 302 2838389',
